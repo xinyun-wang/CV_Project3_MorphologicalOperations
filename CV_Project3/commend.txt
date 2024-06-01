@@ -1,0 +1,5 @@
+CV_Project3.exe data1.txt e.txt dilateOutFile.txt erodeOutFile.txt openingOutFile.txt closingOutFile.txt prettyPrintFile.txt 
+
+CV_Project3.exe i.txt blobElm.txt dilateOutFile.txt erodeOutFile.txt openingOutFile.txt closingOutFile.txt prettyPrintFile.txt 
+
+CV_Project3.exe openingOutFile2.txt holeElm.txt dilateOutFile.txt erodeOutFile.txt openingOutFile.txt closingOutFile.txt prettyPrintFile.txt 
